@@ -67,7 +67,7 @@ echo json_encode($license);
        }
     ],
     "type":"temporary"
- }
+ }.
  
 
 
